@@ -4,8 +4,9 @@
     "auth": {
         "admin": "password"
     },
+    "bin_path": "/app",
     "log": {
-        "level": "info",
+        "level": "debug",
         "path": "./logs",
         "days": 7
     }
